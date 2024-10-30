@@ -1,1 +1,7 @@
-"first edition\nsecond edition\nthird edition\nissue resolved\nHotfix team's solution\nNew function added\nTeam upgraded" 
+first edition
+second edition
+third edition
+isuue resolved
+Hotfix team's solution
+New function added
+Team upgraded
